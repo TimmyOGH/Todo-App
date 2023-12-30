@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://github.com/TimmyOGH/Todo-App
+- Live Site URL: https://timmyogh.github.io/Todo-App/
 
 ### Built with
 
